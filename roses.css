@@ -1,0 +1,23 @@
+:root {
+  --sweet: #000000;
+  --awesome: #800080;
+}
+
+.rose {
+  color: red;
+}
+
+.violet {
+  color: blue;
+}
+
+.sugar {
+  color: var(--sweet);
+}
+
+#you {
+  color: var(--sweet);
+}
+#shiffman {
+  color: var(--awesome);
+}
